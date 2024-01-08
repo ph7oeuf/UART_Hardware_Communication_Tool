@@ -1,4 +1,4 @@
-
+//top module which connects transmitter to receiver  
 module top( 
       input logic clk,
       input logic rst,
