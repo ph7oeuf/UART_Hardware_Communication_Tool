@@ -1,4 +1,4 @@
-
+//transmitter module
 module uart_tx(
 	input logic clk,
 	input logic rst,
